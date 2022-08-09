@@ -1,6 +1,6 @@
 # hmac-header
 
-_See: [https://tools.ietf.org/id/draft-ietf-oauth-v2-http-mac-02.html](https://tools.ietf.org/id/draft-ietf-oauth-v2-http-mac-02.html)_
+_See: [https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-http-mac-02](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-http-mac-02)_
 
 This is an implementation of the IETF OAuth v2 HTTP MAC header from Draft 2.
 
