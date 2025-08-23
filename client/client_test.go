@@ -7,10 +7,9 @@ import (
 	"os"
 	"testing"
 
-	macauth "keybase/hmac-header"
-
 	"github.com/davecgh/go-spew/spew"
 	"github.com/jzelinskie/whirlpool"
+	"github.com/storskegg/go-macauth"
 	"golang.org/x/crypto/sha3"
 )
 

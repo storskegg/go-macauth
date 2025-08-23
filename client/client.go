@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strings"
 
-	macauth "keybase/hmac-header"
+	"github.com/storskegg/go-macauth"
 )
 
 var (

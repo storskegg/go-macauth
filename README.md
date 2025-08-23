@@ -25,3 +25,7 @@ Generally, SHA3-512 is my goto hashing algorithm of choice. It is my opinion tha
 ### Omitted `ext` Header Attribute
 
 At this time, I chose to omit the `ext` header attribute. I'll add this in at a later time.
+
+# TODO
+
+- [ ] Add a way to implement the hashing algorithm of your choice.

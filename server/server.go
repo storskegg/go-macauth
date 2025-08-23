@@ -2,13 +2,12 @@ package server
 
 import (
 	"crypto/rand"
-	"encoding"
+	//"encoding"
 	"errors"
-
-	macauth "keybase/hmac-header"
 
 	"github.com/eknkc/basex"
 	"github.com/jzelinskie/whirlpool"
+	"github.com/storskegg/go-macauth"
 )
 
 var (
@@ -55,4 +54,4 @@ func NewSecret(randLength int) (string, error) {
 	return secret, nil
 }
 
-func E(enc encoding.TextMarshaler)
+//func E(enc encoding.TextMarshaler)
